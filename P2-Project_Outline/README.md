@@ -7,12 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
-### Features
-Include Features here
+Ecommerce web application
 ### Technologies
-Include Technologies here
+Java sprint javascript Css html Angular
 ### What I'll Have to Learn
-Include what you will need to learn here
+Write stories , create frontend with Angular and backend with Java
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/L20Xoqbo/kanban-template-spa-angular-and-java
